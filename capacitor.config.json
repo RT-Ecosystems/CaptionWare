@@ -1,0 +1,17 @@
+{
+  "appId":   "com.captionware.app",
+  "appName": "CaptionWare",
+  "webDir":  ".",
+  "android": {
+    "allowMixedContent": true,
+    "backgroundColor": "#FAFAFA"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 1800,
+      "backgroundColor":    "#5B21B6",
+      "androidSpinnerStyle": "small",
+      "spinnerColor":        "#FFFFFF"
+    }
+  }
+}
