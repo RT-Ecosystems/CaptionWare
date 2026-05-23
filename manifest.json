@@ -1,0 +1,12 @@
+{
+  "name": "CaptionWare",
+  "short_name": "CaptionWare",
+  "description": "AI-powered video captions in your browser",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAFAFA",
+  "theme_color": "#5B21B6",
+  "icons": [
+    { "src": "logo.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
